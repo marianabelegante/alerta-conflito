@@ -23,12 +23,6 @@ O app oferece funcionalidades como login com Firebase, filtro por país, favorit
 - Google Maps Flutter
 - API ACLED
 
-## ▶️ Como executar
-
-```bash
-flutter pub get
-flutter run
-
 ## 📷 Prints
 
 ![Login](assets/prints/login.png)
