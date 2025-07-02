@@ -25,9 +25,12 @@ O app oferece funcionalidades como login com Firebase, filtro por país, favorit
 
 ## 📷 Prints
 
-![Login](assets/prints/login.png)
-![Eventos](assets/prints/eventos.png)
-![Watchlist](assets/prints/watchlist.png)
+![Login](assets/prints/login.jpg)
+![Eventos](assets/prints/tela_principal.jpg)
+![Watchlist](assets/prints/watchlist.jpg)
+![Watchlist](assets/prints/detalhes_evento.jpg)
+![Watchlist](assets/prints/comentario.jpg)
+![Watchlist](assets/prints/mapa.jpg)
 
 ## 🎥 Vídeo
 
