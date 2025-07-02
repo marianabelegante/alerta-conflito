@@ -28,3 +28,13 @@ O app oferece funcionalidades como login com Firebase, filtro por país, favorit
 ```bash
 flutter pub get
 flutter run
+
+## 📷 Prints
+
+![Login](assets/prints/login.png)
+![Eventos](assets/prints/eventos.png)
+![Watchlist](assets/prints/watchlist.png)
+
+## 🎥 Vídeo
+
+[🎥 Assista à apresentação no YouTube](https://youtu.be/9w2WG7NccZQ)
