@@ -1,16 +1,30 @@
-# myapp
+# 📱 Alerta de Conflito
 
-A new Flutter project.
+Aplicativo desenvolvido com Flutter que permite monitorar eventos de conflitos globais usando a API ACLED.  
+O app oferece funcionalidades como login com Firebase, filtro por país, favoritar eventos, comentários pessoais e mapa interativo.
 
-## Getting Started
+## 🚀 Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Login e cadastro com Firebase Auth
+- Listagem de eventos da API ACLED
+- Filtro por país
+- Detalhes dos eventos
+- Favoritar eventos (Watchlist)
+- Comentários pessoais
+- Mapa com localização do evento
+- Cache offline com Hive
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tecnologias
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter + GetX (MVC)
+- Firebase Auth
+- Firestore
+- Hive
+- Google Maps Flutter
+- API ACLED
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ▶️ Como executar
+
+```bash
+flutter pub get
+flutter run
