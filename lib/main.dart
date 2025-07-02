@@ -34,6 +34,7 @@ class MyApp extends StatelessWidget {
     final bool isUserLoggedIn = autenticacaoService.usuarioLogado != null;
 
     return GetMaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Alerta de Conflito',
       theme: ThemeData(
         primarySwatch: Colors.blue,
